@@ -31,3 +31,6 @@ Memory: total: 1.9Gi, used: 412Mi, free: 868Mi, shared: 1.1Mi, buff/cache: 789Mi
 df -h
 
 Disk Space: Total: 19 GB, Used: 5.4 GB, Available: 13 GB, Usage: 30%
+
+
+screenshot/killercoda-playgrounds-scenario-ubuntu.png
