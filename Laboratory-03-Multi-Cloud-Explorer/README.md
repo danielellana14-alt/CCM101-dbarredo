@@ -40,4 +40,4 @@ The Linux server was investigated using commands in the KillerCoda Playground.
 - **Usage:** 30%
 
 
-(screenshot/killercoda-playgrounds-scenario-ubuntu.png)
+Laboratory-03-Multi-Cloud-Explorer/screenshot/killercoda-playgrounds-scenario-ubuntu.png
