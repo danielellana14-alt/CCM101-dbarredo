@@ -65,7 +65,7 @@ GCP is recommended because the company operates globally and requires highly ava
 
 ---
 
-#Multi-Cloud Decision Matrix
+# Multi-Cloud Decision Matrix
 
 | Business Requirement | Recommended Platform | Justification |
 |---|---|---|
