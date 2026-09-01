@@ -1,6 +1,4 @@
-# Mission Reflection
-
-## Cloud Computing Multi-Cloud Exploration
+# Reflection
 
 Throughout this mission, I explored and compared Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP). Among the three platforms, Google Cloud Platform impressed me the most because of its strong capabilities in artificial intelligence, machine learning, Kubernetes, and global infrastructure. Services such as Vertex AI and Google Kubernetes Engine demonstrate how the platform can support modern and highly scalable applications.
 
