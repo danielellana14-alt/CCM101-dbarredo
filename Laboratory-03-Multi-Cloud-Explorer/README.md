@@ -33,4 +33,4 @@ df -h
 Disk Space: Total: 19 GB, Used: 5.4 GB, Available: 13 GB, Usage: 30%
 
 
-screenshot/killercoda-playgrounds-scenario-ubuntu.png
+(screenshot/killercoda-playgrounds-scenario-ubuntu.png) 
