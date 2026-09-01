@@ -4,33 +4,40 @@
 
 The Linux server was investigated using commands in the KillerCoda Playground.
 
-### 1. Operating System
+## 1. Operating System
 
-**Command used:**
-cat /etc/os-release
+**Command used:** `cat /etc/os-release`
 
-Operating system: "Ubuntu 24.04.4 LTS"
+- **Operating System:** Ubuntu 24.04.4 LTS
+- **Codename:** Noble Numbat
 
-### 2. CPU
+## 2. CPU
 
-**Command used:**
-lscpu
+**Command used:** `lscpu`
 
-CPU: 1
+- **Architecture:** x86_64
+- **CPU(s):** 1
+- **CPU Model:** Intel Xeon E312xx (Sandy Bridge, IBRS update)
+- **CPU Cores:** 1
+- **Threads per Core:** 1
 
-### 3. Memory
+## 3. Memory
 
-**Command used:**
-free -h
+**Command used:** `free -h`
 
-Memory: total: 1.9Gi, used: 412Mi, free: 868Mi, shared: 1.1Mi, buff/cache: 789Mi, available: 1.5Gi
+- **Total:** 1.9 GiB
+- **Used:** 412 MiB
+- **Free:** 868 MiB
+- **Available:** 1.5 GiB
 
-### 4. Disk Space
+## 4. Disk Space
 
-**Command used:**
-df -h
+**Command used:** `df -h`
 
-Disk Space: Total: 19 GB, Used: 5.4 GB, Available: 13 GB, Usage: 30%
+- **Total:** 19 GB
+- **Used:** 5.4 GB
+- **Available:** 13 GB
+- **Usage:** 30%
 
 
-(screenshot/killercoda-playgrounds-scenario-ubuntu.png) 
+![KillerCoda Linux Investigation](screenshots/killercoda-playgrounds-scenario-ubuntu.png)
