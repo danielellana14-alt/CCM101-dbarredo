@@ -63,3 +63,15 @@ GCP is recommended because the company operates globally and requires highly ava
 | SQL Database | Amazon RDS | Azure SQL Database | Cloud SQL |
 | Kubernetes | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
 
+---
+
+#Multi-Cloud Decision Matrix
+
+| Business Requirement | Recommended Platform | Justification |
+|---|---|---|
+| Startup Company | AWS | AWS offers a wide range of pay-as-you-go and serverless services that can help a startup minimize its initial infrastructure costs. Services such as AWS Lambda, Amazon S3, and DynamoDB also make it easier to scale as the application grows. |
+| Enterprise Organization | AWS | AWS provides a broad portfolio of infrastructure, database, security, networking, and management services suitable for large organizations. Its mature enterprise capabilities make it a strong choice for organizations with complex and growing workloads. |
+| Microsoft Environment | Microsoft Azure | Azure is the best fit for organizations already using Microsoft technologies such as Windows Server, Microsoft 365, and Active Directory. Microsoft Entra ID and Azure's Windows-focused services allow existing systems and identities to integrate more easily with the cloud. |
+| AI / Machine Learning | Google Cloud Platform | GCP is well suited for AI and machine learning because of services such as Vertex AI and its access to GPU-enabled computing resources. It provides tools for developing, training, deploying, and managing machine learning models. |
+| Kubernetes Deployment | Google Cloud Platform | GCP is a strong choice for Kubernetes deployments because Google Kubernetes Engine (GKE) provides a managed Kubernetes environment with features for cluster management, scaling, and workload deployment. |
+| Global Web Application | Google Cloud Platform | GCP is a strong choice for globally distributed web applications because it provides global load balancing, scalable compute resources, and highly available infrastructure. These capabilities help applications handle users and traffic from different regions. |
