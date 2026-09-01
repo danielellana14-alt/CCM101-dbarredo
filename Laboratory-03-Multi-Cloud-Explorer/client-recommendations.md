@@ -48,3 +48,51 @@ GCP is recommended because the company operates globally and requires highly ava
 2. Compute Engine – scalable application infrastructure
 3. Cloud Storage – scalable storage for products and media
 
+
+# Cloud Platform Comparison
+
+
+| Service Category | AWS | Azure | GCP |
+|---|---|---|---|
+| Virtual Machine | Amazon EC2 | Azure Virtual Machines | Google Compute Engine |
+| Object Storage | Amazon S3 | Azure Blob Storage | Google Cloud Storage |
+| Identity Management | AWS IAM | Microsoft Entra ID | Google Cloud IAM |
+| SQL Database | Amazon RDS | Azure SQL Database | Cloud SQL |
+| Kubernetes | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
+
+## Service Descriptions
+
+### 1. Virtual Machine
+- **AWS:** Amazon EC2
+- **Azure:** Azure Virtual Machines
+- **GCP:** Google Compute Engine
+
+These services provide virtual machines that can run applications and operating systems in the cloud.
+
+### 2. Object Storage
+- **AWS:** Amazon S3
+- **Azure:** Azure Blob Storage
+- **GCP:** Google Cloud Storage
+
+These services provide scalable storage for files, images, backups, videos, and other unstructured data.
+
+### 3. Identity Management
+- **AWS:** AWS IAM
+- **Azure:** Microsoft Entra ID
+- **GCP:** Google Cloud IAM
+
+These services control authentication, identities, permissions, and access to cloud resources.
+
+### 4. SQL Database
+- **AWS:** Amazon RDS
+- **Azure:** Azure SQL Database
+- **GCP:** Cloud SQL
+
+These services provide managed relational/SQL database capabilities without requiring the organization to manage all database infrastructure manually.
+
+### 5. Kubernetes
+- **AWS:** Amazon EKS
+- **Azure:** Azure Kubernetes Service (AKS)
+- **GCP:** Google Kubernetes Engine (GKE)
+
+These services provide managed Kubernetes environments for deploying, managing, and scaling containerized applications.
