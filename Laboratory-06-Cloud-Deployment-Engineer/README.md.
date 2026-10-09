@@ -33,4 +33,6 @@ docker-compose down
 * Infrastructure as Code
 * Technical documentation and GitHub portfolio management
 
+## Screenshots
 
+Deployment evidence is stored in the `screenshots/` directory.
