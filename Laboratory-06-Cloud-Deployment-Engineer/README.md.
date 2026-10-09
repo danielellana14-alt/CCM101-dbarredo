@@ -1,10 +1,10 @@
-# Laboratory 06 - Cloud Deployment Engineer
+## Laboratory 06 - Cloud Deployment Engineer
 
-## Mission Overview
+ Mission Overview
 
 This laboratory focuses on deploying a multi-tier private cloud storage application using Docker Compose. The application uses Nextcloud as the web application and MariaDB as its database.
 
-## Objectives
+Objectives
 
 * Understand two-tier architecture.
 * Create a Docker Compose YAML configuration.
@@ -13,7 +13,7 @@ This laboratory focuses on deploying a multi-tier private cloud storage applicat
 * Apply Infrastructure as Code (IaC) principles.
 * Document deployment procedures using Markdown.
 
-## Commands Executed
+Commands Executed
 
 ```bash
 mkdir nextcloud-deployment
@@ -24,7 +24,7 @@ docker-compose ps
 docker-compose down
 ```
 
-## Skills Learned
+Skills Learned
 
 * Docker Compose configuration
 * Multi-tier application architecture
@@ -33,6 +33,4 @@ docker-compose down
 * Infrastructure as Code
 * Technical documentation and GitHub portfolio management
 
-## Screenshots
 
-Deployment evidence is stored in the `screenshots/` directory.
