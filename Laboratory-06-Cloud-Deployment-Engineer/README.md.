@@ -30,7 +30,14 @@ docker-compose down
 * Multi-tier application architecture
 * Container deployment and management
 * Linux command-line text editing
-* Infrastructure as Code
-* Technical documentation and GitHub portfolio management
+* Infrastructure as Code (IaC)
+* Technical documentation using Markdown
+* GitHub portfolio management
 
+## Screenshots
 
+The following screenshots provide evidence of the deployment process:
+
+* `compose-deployment.png` - Successful deployment and running containers.
+* `nextcloud-web.png` - Nextcloud web interface.
+* `compose-teardown.png` - Containers stopped and removed successfully.
