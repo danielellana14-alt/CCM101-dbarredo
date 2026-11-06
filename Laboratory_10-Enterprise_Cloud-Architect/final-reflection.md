@@ -1,0 +1,7 @@
+Mission 1 to Mission 10 – Enterprise Cloud Architect
+
+Throughout the ten missions, I gained knowledge and experience in cloud computing, starting from learning basic Linux commands to understanding how to build and manage a complete cloud infrastructure. Each activity helped me improve my technical skills and understand the importance of networking, server management, security, and automation.
+
+As I progressed through the missions, I learned how different technologies work together to create a reliable cloud environment. I also gained experience in setting up virtual machines, configuring Ubuntu Server, deploying applications using Docker, managing databases, and implementing security through firewall configurations. Furthermore, I discovered how automation can make system maintenance easier and how proper documentation helps others understand and manage the infrastructure.
+
+Completing Mission 10 allowed me to apply the knowledge I gained from the previous activities in one project. It challenged me to think critically, solve technical problems, and understand the responsibilities of managing an IT infrastructure. Overall, this journey helped me become more confident in handling cloud technologies and prepared me to face more complex technical challenges in the future. I realized that becoming a Cloud Architect is not just about knowing how to use different tools, but also about planning, building, protecting, and maintaining systems effectively.
